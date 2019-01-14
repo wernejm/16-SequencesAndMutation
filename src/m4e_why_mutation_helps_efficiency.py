@@ -23,8 +23,8 @@ def main():
     #    number_of_copy_and_changes_to_perform
     # to see what happens in larger cases.
     # ------------------------------------------------------------------
-    number_of_mutations_to_perform = 1000
-    number_of_copy_and_changes_to_perform = 1000
+    number_of_mutations_to_perform = 10000
+    number_of_copy_and_changes_to_perform = 10000
 
     zeros1 = make_list(number_of_mutations_to_perform)
     zeros2 = make_list(number_of_copy_and_changes_to_perform)
